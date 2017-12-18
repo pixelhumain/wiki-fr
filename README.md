@@ -1,6 +1,6 @@
 # wiki
 Wiki Communecter
 
-This repository is used only for [the Wiki](https://github.com/pixelhumain/wiki/wiki).
+Ce dépôt n'est utilisé que pour [le wiki](https://github.com/pixelhumain/wiki-fr/wiki)
 
-Ce dépôt n'est utilisé que pour [le wiki](https://github.com/pixelhumain/wiki/wiki)
+[English Wiki version here](https://github.com/pixelhumain/wiki-en/wiki).
