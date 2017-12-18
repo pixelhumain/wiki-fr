@@ -1,5 +1,4 @@
-# wiki
-Wiki Communecter
+# Wiki Communecter
 
 Ce dépôt n'est utilisé que pour [le wiki](https://github.com/pixelhumain/wiki-fr/wiki)
 
